@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4c1ea5b-6d3a-4d66-bc99-5fbece96c6e4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hzjddkPLyyGJWHhxz5vWERTOmL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Program Files/nodejs/node.exe" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Node.js.Unnamed">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" path-to-node="$PROJECT_DIR$/../../../../../../Program Files/nodejs/node" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser name="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" with-js-debugger="true" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" temporary="true" path-to-node="$PROJECT_DIR$/../../../../../../Program Files/nodejs/node" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Unnamed" />
+      <item itemvalue="Node.js.app.js" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.app.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4c1ea5b-6d3a-4d66-bc99-5fbece96c6e4" name="Default Changelist" comment="" />
+      <created>1601020902236</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601020902236</updated>
+      <workItem from="1601020903279" duration="4562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601021274907">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1601021274907" />
+    <state x="579" y="185" key="FileChooserDialogImpl" timestamp="1601021209964">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="579" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601021209964" />
+    <state width="1362" height="206" key="GridCell.Tab.0.bottom" timestamp="1601021223970">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1362" height="206" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1601021223970" />
+    <state width="1362" height="206" key="GridCell.Tab.0.center" timestamp="1601021223970">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1362" height="206" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1601021223970" />
+    <state width="1362" height="206" key="GridCell.Tab.0.left" timestamp="1601021223969">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1362" height="206" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1601021223969" />
+    <state width="1362" height="206" key="GridCell.Tab.0.right" timestamp="1601021223970">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1362" height="206" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1601021223970" />
+    <state x="268" y="89" key="SettingsEditor" timestamp="1601036621047">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="268" y="89" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1601036621047" />
+    <state x="516" y="238" key="jetbrains.nodejs.interpreters-dialog" timestamp="1601021211118">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="516" y="238" key="jetbrains.nodejs.interpreters-dialog/0.0.1600.860@0.0.1600.860" timestamp="1601021211118" />
+    <state x="456" y="197" key="run.anything.popup" timestamp="1601020979833">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="456" y="197" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1601020979833" />
+  </component>
+</project>
