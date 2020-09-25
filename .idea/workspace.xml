@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4c1ea5b-6d3a-4d66-bc99-5fbece96c6e4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c4c1ea5b-6d3a-4d66-bc99-5fbece96c6e4" name="Default Changelist" comment="end training">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
@@ -63,12 +62,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601020902236</updated>
-      <workItem from="1601020903279" duration="8359000" />
+      <workItem from="1601020903279" duration="10566000" />
     </task>
+    <task id="LOCAL-00001" summary="end training">
+      <created>1601042279844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601042279844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="end training" />
+    <option name="LAST_COMMIT_MESSAGE" value="end training" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="85" width="1092" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601021274907">
@@ -107,10 +118,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="268" y="89" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1601036621047" />
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601036727076">
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601042284810">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601036727076" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601042284810" />
     <state x="516" y="238" key="jetbrains.nodejs.interpreters-dialog" timestamp="1601021211118">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
