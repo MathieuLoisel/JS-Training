@@ -1,19 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c4c1ea5b-6d3a-4d66-bc99-5fbece96c6e4" name="Default Changelist" comment="" />
+    <list default="true" id="c4c1ea5b-6d3a-4d66-bc99-5fbece96c6e4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1hzjddkPLyyGJWHhxz5vWERTOmL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../../Program Files/nodejs/node.exe" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -53,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601020902236</updated>
-      <workItem from="1601020903279" duration="4562000" />
+      <workItem from="1601020903279" duration="8359000" />
     </task>
     <servers />
   </component>
@@ -69,6 +79,14 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="579" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1601021209964" />
+    <state x="678" y="328" key="Github.ShareDialog" timestamp="1601036706699">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="678" y="328" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1601036706699" />
+    <state x="482" y="135" key="Github.UntrackedFilesDialog" timestamp="1601036712692">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="482" y="135" key="Github.UntrackedFilesDialog/0.0.1600.860@0.0.1600.860" timestamp="1601036712692" />
     <state width="1362" height="206" key="GridCell.Tab.0.bottom" timestamp="1601021223970">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -89,6 +107,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="268" y="89" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1601036621047" />
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2" timestamp="1601036727076">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="163" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1601036727076" />
     <state x="516" y="238" key="jetbrains.nodejs.interpreters-dialog" timestamp="1601021211118">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
